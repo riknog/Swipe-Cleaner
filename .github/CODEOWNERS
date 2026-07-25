@@ -1,0 +1,12 @@
+# CODEOWNERS — SwipeCleaner
+# Define os mantenedores responsáveis por revisar e aprovar mudanças.
+
+# Qualquer mudança em workflows de CI/CD ou segurança requer revisão do dono do projeto
+/.github/ @riknog
+/SECURITY.md @riknog
+/CONTRIBUTING.md @riknog
+
+# Configurações globais de build do Gradle
+/build.gradle.kts @riknog
+/settings.gradle.kts @riknog
+/gradle/ @riknog
