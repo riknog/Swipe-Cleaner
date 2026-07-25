@@ -1,0 +1,6 @@
+{
+  "name": "Swipe Cleaner - Exclusão de Fotos",
+  "description": "App estilo Tinder para exclusão rápida e segura de fotos da galeria com lixeira e restauração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
