@@ -150,9 +150,9 @@ class SwipeCleanerViewModel(application: Application) : AndroidViewModel(applica
             val gb = mb * 1024L
 
             return when {
-                bytes >= gb -> String.format("%.2f GB", bytes.toDouble() / gb)
-                bytes >= mb -> String.format("%.1f MB", bytes.toDouble() / mb)
-                bytes >= kb -> String.format("%d KB", bytes / kb)
+                bytes >= gb -> String.format(java.util.Locale.US, "%.2f GB", bytes.toDouble() / gb)
+                bytes >= mb -> String.format(java.util.Locale.US, "%.1f MB", bytes.toDouble() / mb)
+                bytes >= kb -> String.format(java.util.Locale.US, "%d KB", bytes / kb)
                 else -> "$bytes B"
             }
         }

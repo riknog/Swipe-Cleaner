@@ -1,0 +1,29 @@
+MIT License with Attribution Requirement
+
+Copyright (c) 2026 Ricky Nogueira (SwipeCleaner Project)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. ATTRIBUTION REQUIREMENT:
+   Any person or entity that modifies, redistributes, publishes, or sells this
+   Software (or any derivative work based on it) MUST prominently include full
+   attribution and credit referencing the original author and project:
+   
+   "Original Project: SwipeCleaner by Ricky Nogueira
+   Repository: https://github.com/rickynogueira/SwipeCleaner"
+
+2. NOTICE PRESERVATION:
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

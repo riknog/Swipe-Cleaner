@@ -11,7 +11,7 @@ class SwipeCleanerUnitTest {
     @Test
     fun `test formatBytes formats bytes correctly`() {
         assertEquals("500 B", SwipeCleanerViewModel.formatBytes(500L))
-        assertEquals("1024 B", SwipeCleanerViewModel.formatBytes(1024L) /* 1 KB */)
+        assertEquals("1 KB", SwipeCleanerViewModel.formatBytes(1024L))
         assertEquals("1.0 MB", SwipeCleanerViewModel.formatBytes(1024L * 1024L))
         assertEquals("4.5 MB", SwipeCleanerViewModel.formatBytes((4.5 * 1024 * 1024).toLong()))
         assertEquals("2.10 GB", SwipeCleanerViewModel.formatBytes((2.1 * 1024 * 1024 * 1024).toLong()))
